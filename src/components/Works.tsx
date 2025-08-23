@@ -108,7 +108,7 @@ export default function Works() {
             title="My Portfolio"
             description="A responsive personal portfolio website developed with Next.js and Tailwind CSS, showcasing projects, skills, and design work."
             image="/portfolio.png"
-            link="https://yourdomain.com"
+            link="https://angelnicole.netlify.app/"
             isPrivate={false}
             status="Deployed"
           />
