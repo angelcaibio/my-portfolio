@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Sakura falling animation */
+.sakura {
+  position: fixed;
+  top: -20px;
+  width: 20px;
+  height: 20px;
+  background-image: url("/sakura.png");
+  background-size: cover;
+  animation: fall 10s linear forwards;
+  pointer-events: none;
+  z-index: 0;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
