@@ -37,8 +37,7 @@ export default function ProjectCard({
           {status}
         </span>
       </div>
-
-      {/* Content box below image */}
+      
       <div className="p-5">
         <h3 className="text-lg font-semibold text-white group-hover:text-pink-400 transition">
           {title}
