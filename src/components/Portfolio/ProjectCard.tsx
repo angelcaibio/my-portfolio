@@ -47,7 +47,7 @@ export default function ProjectCard({
 
         {isPrivate ? (
           <a
-            href={`mailto:your@email.com?subject=Request Access to ${title}`}
+            href={`mailto:angelnicoleasiscaibio@email.com?subject=Request Access to ${title}`}
             className="mt-4 inline-flex items-center text-sm font-medium text-yellow-400 hover:text-yellow-300 transition"
           >
             Request Access →

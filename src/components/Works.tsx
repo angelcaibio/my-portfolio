@@ -1,14 +1,11 @@
 import ProjectCard from "./Portfolio/ProjectCard";
 
 const development = [
-  // Languages
   "TypeScript",
   "JavaScript",
   "Dart",
   "PHP",
   "Python",
-
-  // Frameworks & Backend
   "React",
   "Flutter",
   "Laravel",
@@ -16,15 +13,10 @@ const development = [
 ];
 
 const tools = [
-  // Platforms & Cloud
   "Google Cloud",
   "Git",
   "Vite",
-
-  // Animation
   "Framer Motion",
-
-  // Design
   "Figma",
   "Adobe Photoshop",
   "Adobe Illustrator",
