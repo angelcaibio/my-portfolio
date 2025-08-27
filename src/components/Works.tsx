@@ -100,7 +100,7 @@ export default function Works() {
             title="WAH!NEKO"
             description="A public Discord bot for cat lovers, featuring fun cat interactions, commands, and community engagement."
             image="/wahneko.png"
-            link="https://discord.com/oauth2/authorize?client_id=1409165757215936653"
+            link="https://discord.com/oauth2/authorize?client_id=1409772742890360863"
             isPrivate={false}
             status="Deployed"
           />
